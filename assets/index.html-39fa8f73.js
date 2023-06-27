@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as n,c,d as r,a as e,b as s}from"./app-2c72f79b.js";const d={},_=e("h1",{id:"i18n-多语言",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#i18n-多语言","aria-hidden":"true"},"#"),s(" i18n 多语言")],-1);function i(l,h){const a=o("AutoCatalog");return n(),c("div",null,[_,r(a)])}const m=t(d,[["render",i],["__file","index.html.vue"]]);export{m as default};

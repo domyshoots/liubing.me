@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as s,c,d as n,a as e,b as r}from"./app-2c72f79b.js";const d={},_=e("h1",{id:"css",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css","aria-hidden":"true"},"#"),r(" CSS")],-1);function l(i,h){const a=o("AutoCatalog");return s(),c("div",null,[_,n(a)])}const m=t(d,[["render",l],["__file","index.html.vue"]]);export{m as default};
